@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(180, 178, 178);
+    color: orangered;
+    padding: 20px;
+}
+
+.container-grid {
+ margin-top: 50px;
+}
+
+.container-grid h2 {
+    margin-bottom: 30px;
+}
+.col-4 {
+    background-color: rgb(180, 178, 178);
+    margin-right: 20px;
+}
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+}
